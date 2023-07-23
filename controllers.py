@@ -1,8 +1,8 @@
-import os
-import qrcode
-import secrets
-from PIL import Image
 import io
+import os
+import secrets
+import qrcode
+from PIL import Image
 
 
 def set_output(path: str = "https://www.charitycomms.org.uk/wp-content/uploads/2019/02/placeholder-image-square.jpg"):
